@@ -25,7 +25,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Caustic:
-        m_Texture: {fileID: 2800000, guid: 405401a744f104e42a555150861e5e34, type: 3}
+        m_Texture: {fileID: 2800000, guid: b59c3deaa7ab1444b87cb94c44c643b2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CausticA:
