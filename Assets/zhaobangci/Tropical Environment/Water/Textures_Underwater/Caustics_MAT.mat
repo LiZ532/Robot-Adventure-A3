@@ -25,7 +25,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Caustic:
+<<<<<<< Updated upstream
         m_Texture: {fileID: 2800000, guid: d34facf38d34f1f4db6826b932a74230, type: 3}
+=======
+        m_Texture: {fileID: 2800000, guid: 59269c1e312e40b448a947ea11cea0a5, type: 3}
+>>>>>>> Stashed changes
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _CausticA:
