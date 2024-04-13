@@ -4,5 +4,21 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Start.unity
+    guid: ab1e116b6c223aa449351eadd57b9512
+  - enabled: 1
+    path: Assets/lizepeng/Space.unity
+    guid: 8fc5a095f1566fc48a0a5e10e595a66a
+  - enabled: 1
+    path: Assets/zhaobangci/Tropical Environment/Demo/Beach.unity
+    guid: d713e47be1186a54581bed054b6976ce
+  - enabled: 1
+    path: Assets/yinhongwei/POLYGON city pack/scene/city.unity
+    guid: 7759de288f5d4ee449a0ca5e2244944a
+  - enabled: 1
+    path: Assets/wuzhengyan/Sci-Fi Styled Modular Pack/Example scenes/lab.unity
+    guid: b42ca4c5c936383429d2318c931f7ad2
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: c2b1c126d7e5cc742ba5a36cb0c967e9, type: 2}
