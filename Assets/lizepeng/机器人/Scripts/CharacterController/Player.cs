@@ -13,7 +13,7 @@ public class Player : MonoBehaviour
             Destroy(other.gameObject);
             score += 1;
             text.text = score.ToString();
-            if (score == 5)
+            if (score == 6)
             {
                 winPage.SetActive(true);
             }
