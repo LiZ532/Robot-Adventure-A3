@@ -5,6 +5,7 @@ public class Player : MonoBehaviour
 {
     public Text text;
     public GameObject winPage;
+    public AudioSource audioSource; // 引用AudioSource组件
     int score = 0;
     private void OnTriggerEnter(Collider other)
     {
