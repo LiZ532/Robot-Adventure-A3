@@ -1302,7 +1302,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1048762665, guid: 0b284120e70d87d428510574b01d9d69, type: 3}
       propertyPath: m_Text
-      value: /5
+      value: /10
       objectReference: {fileID: 0}
     - target: {fileID: 1136251202, guid: 0b284120e70d87d428510574b01d9d69, type: 3}
       propertyPath: m_Text
