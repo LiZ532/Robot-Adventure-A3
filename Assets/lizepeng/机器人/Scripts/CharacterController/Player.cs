@@ -14,6 +14,7 @@ public class Player : MonoBehaviour
             Destroy(other.gameObject);
             score += 1;
             text.text = score.ToString();
+            audioSource.Play(); //By WuZhengyan
             if (score == 6)
             {
                 winPage.SetActive(true);
